@@ -1,0 +1,17 @@
+server:
+  port: 8081
+
+logging:
+  level:
+    root: debug
+
+user:
+  auth:
+    type: secret
+    secret: v6dKqLlBYF9rD2ojh2A3kKVLnhETokXKd51AXSsdArd3ChbCEsC4CFEzgWxS1gW5
+    #jwk-resource-server:
+
+
+
+
+

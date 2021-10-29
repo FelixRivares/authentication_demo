@@ -1,0 +1,10 @@
+package ru.auth.demo.token.model;
+
+import lombok.Data;
+
+@Data
+public class User {
+
+  private String name;
+
+}
